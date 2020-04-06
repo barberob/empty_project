@@ -1,1 +1,1 @@
-empty_project
+empty_project basic architecture
