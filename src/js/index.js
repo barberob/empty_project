@@ -1,4 +1,5 @@
 import '../css/app.scss';
+import ClassTemplate from './ClassTemplate'
 
 class App {
 
@@ -9,6 +10,7 @@ class App {
 
     initApp () {
       // Start application
+      new ClassTemplate();
       
     }
 }
